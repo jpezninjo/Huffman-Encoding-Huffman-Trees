@@ -1,7 +1,8 @@
 # Huffman-Encoding-Huffman-Trees
 
 
-Main: Huffman.java\n
+Main: Huffman.java
+
 Usage: java Huffman (-c/-u) <-v> <-f> (input file name/path) (output file name/path)
 
 
